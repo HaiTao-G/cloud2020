@@ -1,5 +1,5 @@
 HELP.md
-target
+/target/
 !.mvn/wrapper/maven-wrapper.jar
 .gitignore
 /logs/
@@ -41,3 +41,4 @@ target
 out
 gen
 /prisight/prisight-pc/src/test/
+/cloud-provider-payment8001/target/
